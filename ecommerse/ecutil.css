@@ -1,0 +1,33 @@
+.flex{
+    display:flex;
+  }
+  
+  .items-center{
+    align-items:center;
+  } 
+  
+  .justify-center{
+    justify-content:center;
+  }
+  
+  .uppercase{
+    text-transform: uppercase;
+  }
+  
+  .semibold{
+    font-weight: bolder;
+  }
+  
+  .space-around{
+    justify-content: space-between;
+  }
+  
+  .mx-2{
+    height: 2vw;
+    margin-left: 25px;
+    margin-right: 5px;
+  }
+  
+  .flex-wrap{
+    flex-wrap: wrap;
+  }
